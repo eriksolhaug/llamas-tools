@@ -18,6 +18,12 @@ Tested with Python 3.12, numpy 2.2, scipy 1.18, astropy 8.0 and matplotlib 3.11.
 
 ## Illumination Correction
 
+<p align="center">
+  <a href="figures/illumination_correct_example.pdf"><img src="figures/illumination_correct_example.png" width="600" alt="Whitelight images of a LLAMAS cube before and after the illumination correction"></a>
+  <br>
+  <sub>A sample LLAMAS cube whitelight image (median) before and after using the illumination correction code.</sub>
+</p>
+
 The code `illumination_correct/` takes input reduced LLAMAS data cubes and uses a median filter to correct for the correlated slice-looking illumination differences of the background.
 
 To run the illumination correction code, do this:

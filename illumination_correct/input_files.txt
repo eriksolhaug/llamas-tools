@@ -1,0 +1,9 @@
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_07-53-02.9_RSS_blue.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_07-53-02.9_RSS_green.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_07-53-02.9_RSS_red.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-04-52.2_RSS_blue.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-04-52.2_RSS_green.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-04-52.2_RSS_red.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-37-53.1_RSS_blue.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-37-53.1_RSS_green.fits
+/Users/observer/DATA/magellan/LLAMAS/ut260325_26/raw/reduced/extractions/LLAMAS_2026-03-26_09-37-53.1_RSS_red.fits

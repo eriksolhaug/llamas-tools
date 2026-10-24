@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data products (large)
+*.fits
+*.fits.gz
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Other files
+illumination_correct/footprint.json
+illumination_correct/test.py
